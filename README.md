@@ -10,3 +10,5 @@
 #### Grunnen til at jeg valgte Informasjonsteknologi og Medieproduksjon er at jeg har lyst til å lage spill, og jeg tenkte at dette ville være en bra måte og få lært det. Itillegg tenker jeg at det kan være lurt å vite hvordan man redigerer en video eller et bilde for å lage trailere og logoer.
 
 #### Akkurat nå går jeg på Gjennestad Videregående Skole som elev og jeg håper at jeg lærer litt om hvordan man lager spill, og kanskje også litt om hvordan man redigerer. Men jeg kan også lære andre ting
+
+##### Link til Gjennstad VGS sin nett side: [Gjennestad VGS](https://www.gjennestadvgs.no/)
