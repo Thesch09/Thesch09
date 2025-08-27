@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hallo! Jeg heter Theodor!
+#### Jeg liker å spille, høre på musikk og spise god mat.
 
 <!--
 **Thesch09/Thesch09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
